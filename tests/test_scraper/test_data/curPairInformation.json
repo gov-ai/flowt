@@ -1,0 +1,36 @@
+{
+    "eur_usd": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/eur-usd-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "aud_cad": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/aud-cad-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+}
