@@ -3,6 +3,7 @@
 
 > *Float like a butterfly, sting like a bee*
 
+Flexible framework for realtime time series prediction. Currently focusing on forex and stock markets.
 More readme will be updated soon 🚀
 
 ### Roadmap
