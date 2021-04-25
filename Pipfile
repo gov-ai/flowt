@@ -4,8 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-flowt = {path = "./dist/flowt-0.0.0.0.tar.gz"}
 loguru = "*"
+omegaconf = "*"
+requests-html = "*"
 
 [dev-packages]
 
