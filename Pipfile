@@ -7,6 +7,8 @@ name = "pypi"
 loguru = "*"
 omegaconf = "*"
 requests-html = "*"
+pandas = "*"
+tqdm = "*"
 
 [dev-packages]
 

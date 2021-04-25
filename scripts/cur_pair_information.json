@@ -1,0 +1,172 @@
+{
+    "eur_usd": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/eur-usd-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "gbp_usd": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/gbp-usd-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "usd_jpy": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-jpy-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "aud_usd": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/aud-usd-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "eur_gbp": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/eur-gbp-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "usd_cad": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-cad-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "usd_chf": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-chf-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "nzd_chf": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/nzd-chf-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "usd_cny": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-cny-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    },
+    "usd_hkd": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-hkd-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ]
+            }
+        }
+    }
+}

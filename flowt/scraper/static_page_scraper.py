@@ -22,8 +22,6 @@ class StaticPageScraper(BaseScraper):
 
         data = []
         for scraped_data, unique_html_paths in zip(self.scraped_data, html_locations):
-            print(scraped_data)
-            print(unique_html_paths)
             data.append([self._unique_html_path_to_text(scraped_data, unique_html_path)
                          for unique_html_path in unique_html_paths])
 
