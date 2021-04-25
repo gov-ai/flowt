@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flowt = {path = "./dist/flowt-0.0.0.0.tar.gz"}
+loguru = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
