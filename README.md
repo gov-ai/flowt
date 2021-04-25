@@ -23,4 +23,7 @@ In sequential order
 - [ ] offline re-training
 - [ ] connect to database
 - [ ] build ui in react and d3.js
+- [ ] model optimisation
+- [ ] scraper optimisation
+- [ ] increase accuracy
 - [ ] ...
