@@ -20,7 +20,7 @@ class BaseScraper:
     def scraped_data(self, data):
         self._scraped_data = data
 
-    def scrape(self, url: str) -> BaseScraper:
+    def scrape(self, url: str):
         """
         Stores scraped data inside `scraped_data` property
         """
