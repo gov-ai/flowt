@@ -14,7 +14,7 @@ class BaseScraper:
 
     def scrape(self, url: str):
         """
-        Stores scraped data inside `scraped_data` property
+        Fetch URL and store scraped data inside `scraped_data` property
         """
         try:
             self.scraped_data = self.get(url)
@@ -24,12 +24,6 @@ class BaseScraper:
         except Exception as e:
             logger.exception(f"Runtime error: {e}")
 
-    # ======================================================================================================
-    # beg: properties
-    # ======================================================================================================
-    # -------------------------------------------------------------------------------------------------------
-    # scraped data
-    # -------------------------------------------------------------------------------------------------------
     @property
     def scraped_data(self):
         return self._scraped_data
@@ -37,6 +31,3 @@ class BaseScraper:
     @scraped_data.setter
     def scraped_data(self, data):
         self._scraped_data = data
-    # ======================================================================================================
-    # end: properties
-    # ======================================================================================================
