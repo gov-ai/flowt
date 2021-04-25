@@ -4,7 +4,9 @@
 > *Float like a butterfly, sting like a bee*
 
 Flexible framework for realtime time series prediction and online learning. Currently focusing on forex and stock markets.
-More readme will be updated soon 🚀
+More information will be updated soon.
+
+> *Project is in it's early stage. To contribute, please contact the author directly.*
 
 ### Roadmap
 
@@ -24,7 +26,7 @@ In sequential order
 - [ ] offline re-training
 - [ ] connect to database
 - [ ] build ui in react and d3.js
+- [ ] increase accuracy
 - [ ] model optimisation
 - [ ] scraper optimisation
-- [ ] increase accuracy
 - [ ] ...
