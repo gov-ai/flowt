@@ -21,7 +21,7 @@ jobs:
           pip install -r requirements.txt
       - name: Create csv file
         run: |
-          python -m scripts.collect_data --save-path data/data-april-26-0530.csv --iters 2600
+          python -m scripts.collect_data --save-path data/data-april-26-0530-i2400.csv --iters 2400
       - name: Update release body and upload files
         uses: meeDamian/github-release@2.0
         with:
@@ -29,5 +29,5 @@ jobs:
           allow_override: true
           body: Generated on April 25 (around 8pm)
           files: >
-            data/data-april-26-0530.csv
+            data/data-april-26-0530-i2400.csv
           gzip: true
