@@ -21,13 +21,13 @@ jobs:
           pip install -r requirements.txt
       - name: Create csv file
         run: |
-          python -m scripts.collect_data --save-path data/2021-04-27-2100-i2400.csv --iters 2400
+          python -m scripts.collect_data --save-path data/2021-04-28-0400-i2300.csv --iters 2300
       - name: Update release body and upload files
         uses: meeDamian/github-release@2.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           allow_override: true
-          body: Generated on April 25 (around 8pm)
+          body: here goes the data
           files: >
-            data/2021-04-27-2100-i2400.csv
+            data/2021-04-28-0400-i2300.csv
           gzip: true
