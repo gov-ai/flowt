@@ -8,6 +8,39 @@ More information will be updated soon.
 
 > *Project is in it's early stage. To contribute, please contact the author directly.*
 
+### Requirements
+
+- Pythion3.8
+- pipenv (install using `pip install pipenv`)
+
+### Stetup Project
+
+```shell
+$ git clone https://github.com/government-ai/flowt
+$ cd flowt
+$ pipenv shell
+```
+
+### Change to specific branch
+
+```shell
+$ git checkout feature/feature-1
+$ git branch -a
+$ git pull origin feature/feature-1
+```
+make your changes using any editor or even file manager.
+
+To see the changes made, use any one of these commands  - `git status` (or) `git diff` (or) `git show`
+
+After making code changes, run following commands to update
+github repo's specific branch
+```shell
+$ git add .
+$ git commit -m'comments about changes made'
+$ git push origin feature/feature-1
+```
+
+
 ### Roadmap
 
 In sequential order
