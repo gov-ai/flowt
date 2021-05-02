@@ -1,3 +1,8 @@
+// var d3 = require('d3');
+// var dateString = '2016-07-27 04:45:33.881';
+// var parseTime = d3.utcParse("%Y-%m-%d %H:%M:%S.%L");
+// console.log(parseTime(dateString));
+
 var margin = { top: 20, right: 20, bottom: 20, left: 50 },
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
@@ -187,29 +192,9 @@ svg.append("g")
     .text("Price ($)");
 
 
+var accessor = ohlc.accessor();
 
-d3.csv("data.csv", function (error, csv) {
-    var accessor = ohlc.accessor();
-
-    feed = csv.map(function (d) {
-        return {
-            date: parseDate(d.Date),
-            open: +d.Open,
-            high: +d.High,
-            low: +d.Low,
-            close: +d.Close,
-            volume: +d.Volume
-        };
-    }).sort(function (a, b) { return d3.ascending(accessor.d(a), accessor.d(b)); });
-
-    // Entrypoint: (called only once) 
-    // Start off an initial set of data
-    const statingDataSize = 250
-    redraw(feed.slice(0, statingDataSize));
-});
-
-function redraw(data) {
-    console.log('[debug]', 'redraw called')
+function redraw(data, trades, futureLength) {
     // add candle sticks
     // =================
     var accessor = ohlc.accessor();
@@ -241,13 +226,13 @@ function redraw(data) {
 
     // add arrows
     // ==========
-    var trades = [
-        // { date: data[156].date, type: "buy", price: data[156].open, quantity: 500 },
-        // { date: data[167].date, type: "sell", price: data[167].close, quantity: 300 },
-        { date: data[data.length - 1].date, type: "buy-pending", price: data[data.length - 1].low, quantity: 300 }
-    ];
-
+    // var trades = [
+    //     // { date: data[156].date, type: "buy", price: data[156].open, quantity: 500 },
+    //     // { date: data[167].date, type: "sell", price: data[167].close, quantity: 300 },
+    //     { date: data[data.length - 1].date, type: "buy-pending", price: data[data.length - 1].low, quantity: 300 }
+    // ];
     svg.selectAll("g.tradearrow").datum(trades).call(tradearrow);
+    svg.selectAll("g.tradearrow").datum([{ date: data[data.length - 1 - futureLength].date, type: "buy-pending", price: data[data.length - 1 - futureLength].low, quantity: 300 }]).call(tradearrow);
     svg.selectAll("g.x.axis").call(xAxis);
     svg.selectAll("g.y.axis").call(yAxis);
 
@@ -255,42 +240,25 @@ function redraw(data) {
     // Set next timer expiry
     // =====================
     setTimeout(async function () {
-        var newData;
     
-        if (data.length < feed.length) {
-            // Simulate a daily feed
-            newData = feed.slice(0, data.length + 1);
-            // console.log('drawing')
-            // console.log(feed.slice(0, data.length + 1))
-        }
-        else {
-            // Simulate intra day updates when no feed is left
-            // ================================================
-            // // Simulate intra day updates when no feed is left
-            // var last = data[data.length - 1];
-            // // Last must be between high and low
-            // last.close = Math.round(((last.high - last.low) * Math.random()) * 10) / 10 + last.low;
-            // 
-            // // console.log('Simulating intra day updates when no feed is left')
-            // // console.log(data)
-            // newData = data;
-
-
+        if (data) {
             // update data using api
             // =====================
-            console.log('else, make await call to api')
-            data.push({
-                date: parseDate("12-Jun-13"),
-                open: +"62.40",
-                high: +"63.37",
-                low: +"63.30",
-                close: +"63.35",
-                volume: +String((Math.random() * 1000000000) + 400)//+"37617413"
+            const response = await axios.post('http://0.0.0.0:8088/api/v1/scrape/scrape-dummy/', {
+                text: 'string'
             })
-            newData = data
+            data.push({
+                date: parseDate(response.data.Date),
+                open: +response.data.Open,
+                high: +response.data.High,
+                low: +response.data.Low,
+                close: +response.data.Close,
+                volume: +response.data.Volume
+            })
+            console.log(response.data.Date)
+            const [trades, futureLength] = [response.data.trades, response.data.futureLength]
+            redraw(data, trades, futureLength);
         }
-    
-        redraw(newData);
     }, 1000); // update every second
     //}, (Math.random() * 1000) + 400); // Randomly pick an interval to update the chart
 }
@@ -302,3 +270,40 @@ function move(coords) {
 }
 
 
+async function callBackend(redrawCallback) {
+    const response = await axios.post('http://0.0.0.0:8088/api/v1/scrape/scrape-dummy/', {
+        text: 'string'
+    })
+    const data = [{
+        date: parseDate(response.data.Date),
+        open: +response.data.Open,
+        high: +response.data.High,
+        low: +response.data.Low,
+        close: +response.data.Close,
+        volume: +response.data.Volume
+    }]
+    const [trades, futureLength] = [response.data.trades, response.data.futureLength]
+    redrawCallback(data, trades, futureLength);
+}
+
+
+
+async function main() {
+    // update data using api
+    // =====================
+    const response = await axios.post('http://0.0.0.0:8088/api/v1/scrape/scrape-dummy/', {
+        text: 'string'
+    })
+    const data = [{
+        date: parseDate(response.data.Date),
+        open: +response.data.Open,
+        high: +response.data.High,
+        low: +response.data.Low,
+        close: +response.data.Close,
+        volume: +response.data.Volume
+    }]
+    const [trades, futureLength] = [response.data.trades, response.data.futureLength]
+    redraw(data, trades, futureLength);
+}
+
+main()
