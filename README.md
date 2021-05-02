@@ -11,14 +11,15 @@ More information will be updated soon.
 ### Requirements
 
 - Pythion3.8
-- pipenv (install using `pip install pipenv`)
+- pipenv (install using `python3.8 -m pip install pipenv`)
 
 ### Stetup Project
 
 ```shell
 $ git clone https://github.com/government-ai/flowt
 $ cd flowt
-$ pipenv shell
+$ python3.8 -m pipenv install
+$ python3.8 -m pipenv shell
 ```
 
 ### Change to specific branch
