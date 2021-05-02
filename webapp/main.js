@@ -2,7 +2,8 @@ var margin = { top: 20, right: 20, bottom: 20, left: 50 },
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
-var parseDate = d3.timeParse("%d-%b-%y");
+var parseDate = d3.timeParse("%d-%b-%y"),
+    parseValue = d3.format(',.2f');
 
 var x = techan.scale.financetime()
     .range([0, width]);
@@ -132,6 +133,61 @@ var coordsText = svg.append('text')
 
 var feed;
 
+// related to arrow
+// ----------------
+var valueText = svg.append('text')
+    .style("text-anchor", "end")
+    .attr("class", "coords")
+    .attr("x", width - 200)//width - 5)
+    .attr("y", 15);//15);
+
+function enter(d) {
+    valueText.style("display", "inline");
+    refreshText(d);
+}
+
+function out() {
+    valueText.style("display", "none");
+}
+
+
+function refreshText(d) {
+    //var dateString = d.date.getYear() + "-" + d.date.getMonth() 
+    var dateString = d.date.toLocaleTimeString("en-us", {
+        weekday: "long", year: "numeric", month: "short",
+        day: "numeric", hour: "2-digit", minute: "2-digit"
+    })
+    valueText.text(d.type + ", " + parseValue(d.price) + ", " + "Trade: " + dateString);
+}
+
+var tradearrow = techan.plot.tradearrow()
+    .xScale(x)
+    .yScale(y)
+    .orient(function (d) { return d.type.startsWith("buy") ? "up" : "down"; })
+    .on("mouseenter", enter)
+    .on("mouseout", out);
+
+svg.append("g")
+    .attr("class", "candlestick");
+
+svg.append("g")
+    .attr("class", "tradearrow");
+
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")");
+
+svg.append("g")
+    .attr("class", "y axis")
+    .append("text")
+    .attr("transform", "rotate(-90)")
+    .attr("y", 6)
+    .attr("dy", ".71em")
+    .style("text-anchor", "end")
+    .text("Price ($)");
+
+
+
 d3.csv("data.csv", function (error, csv) {
     var accessor = ohlc.accessor();
 
@@ -153,6 +209,9 @@ d3.csv("data.csv", function (error, csv) {
 });
 
 function redraw(data) {
+
+    // add candle sticks
+    // =================
     var accessor = ohlc.accessor();
 
     x.domain(data.map(accessor.d));
@@ -180,51 +239,13 @@ function redraw(data) {
             svg.select("g.crosshair.ohlc").call(crosshair);
         });
 
-    // add arrow
-    function enter(d) {
-        valueText.style("display", "inline");
-        refreshText(d);
-    }
-
-    function out() {
-        valueText.style("display", "none");
-    }
-
-    var tradearrow = techan.plot.tradearrow()
-        .xScale(x)
-        .yScale(y)
-        .orient(function (d) { return d.type.startsWith("buy") ? "up" : "down"; })
-        .on("mouseenter", enter)
-        .on("mouseout", out);
-
+    // add arrows
+    // ==========
     var trades = [
-        { date: data[67].date, type: "buy", price: data[67].low, quantity: 1000 },
-        { date: data[100].date, type: "sell", price: data[100].high, quantity: 200 },
         { date: data[156].date, type: "buy", price: data[156].open, quantity: 500 },
         { date: data[167].date, type: "sell", price: data[167].close, quantity: 300 },
-        { date: data[187].date, type: "buy-pending", price: data[187].low, quantity: 300 }
+        { date: data[data.length - 1].date, type: "buy-pending", price: data[data.length - 1].low, quantity: 300 }
     ];
-
-    svg.append("g")
-        .attr("class", "candlestick");
-
-    svg.append("g")
-        .attr("class", "tradearrow");
-
-    svg.append("g")
-        .attr("class", "x axis")
-        .attr("transform", "translate(0," + height + ")");
-
-    svg.append("g")
-        .attr("class", "y axis")
-        .append("text")
-        .attr("transform", "rotate(-90)")
-        .attr("y", 6)
-        .attr("dy", ".71em")
-        .style("text-anchor", "end")
-        .text("Price ($)");
-
-    svg.selectAll("g.tradearrow").datum(trades).call(tradearrow);
 
     svg.selectAll("g.tradearrow").datum(trades).call(tradearrow);
     svg.selectAll("g.x.axis").call(xAxis);
@@ -232,14 +253,15 @@ function redraw(data) {
 
 
     // Set next timer expiry
+    // =====================
     setTimeout(function () {
         var newData;
 
         if (data.length < feed.length) {
             // Simulate a daily feed
             newData = feed.slice(0, data.length + 1);
-            console.log('drawing')
-            console.log(feed.slice(0, data.length + 1))
+            // console.log('drawing')
+            // console.log(feed.slice(0, data.length + 1))
         }
         else {
             // Simulate intra day updates when no feed is left
@@ -247,8 +269,8 @@ function redraw(data) {
             // Last must be between high and low
             last.close = Math.round(((last.high - last.low) * Math.random()) * 10) / 10 + last.low;
 
-            console.log('Simulating intra day updates when no feed is left')
-            console.log(data)
+            // console.log('Simulating intra day updates when no feed is left')
+            // console.log(data)
             newData = data;
         }
 

@@ -58,7 +58,7 @@ class DataCleaner:
             change_per2 = self._helper['change_per2'] if type(self._helper) is dict else None
 
 
-        # wrong logic
+        # wrong logic 
         if (type((self._helper)) is bool) and (self._helper is True):
             return [[close_price, change_per1, change_per2]]
 
