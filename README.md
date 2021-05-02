@@ -16,7 +16,7 @@ More information will be updated soon.
 ### Stetup Project
 
 ```shell
-$ git clone https://github.com/<your-user-id>/flowt
+$ git clone https://github.com/government-ai/flowt
 $ cd flowt
 $ pipenv shell
 ```
