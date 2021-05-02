@@ -56,11 +56,12 @@
 
     .tradearrow path.highlight.buy,
     .tradearrow path.highlight.buy-pending {
-        stroke: #0000FF;
+        fill: #0000FF;
+        fill-opacity: 0.3;
     }
 
-    .tradearrow path.highlight.buy-pending {
-        fill: #0000FF;
+    .tradearrow path.highlight.live-stream {
+        fill: black;
         fill-opacity: 0.3;
     }
 

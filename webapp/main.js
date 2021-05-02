@@ -209,7 +209,7 @@ d3.csv("data.csv", function (error, csv) {
 });
 
 function redraw(data) {
-
+    console.log('[debug]', 'redraw called')
     // add candle sticks
     // =================
     var accessor = ohlc.accessor();
@@ -242,8 +242,8 @@ function redraw(data) {
     // add arrows
     // ==========
     var trades = [
-        { date: data[156].date, type: "buy", price: data[156].open, quantity: 500 },
-        { date: data[167].date, type: "sell", price: data[167].close, quantity: 300 },
+        // { date: data[156].date, type: "buy", price: data[156].open, quantity: 500 },
+        // { date: data[167].date, type: "sell", price: data[167].close, quantity: 300 },
         { date: data[data.length - 1].date, type: "buy-pending", price: data[data.length - 1].low, quantity: 300 }
     ];
 
@@ -254,9 +254,9 @@ function redraw(data) {
 
     // Set next timer expiry
     // =====================
-    setTimeout(function () {
+    setTimeout(async function () {
         var newData;
-
+    
         if (data.length < feed.length) {
             // Simulate a daily feed
             newData = feed.slice(0, data.length + 1);
@@ -265,15 +265,31 @@ function redraw(data) {
         }
         else {
             // Simulate intra day updates when no feed is left
-            var last = data[data.length - 1];
-            // Last must be between high and low
-            last.close = Math.round(((last.high - last.low) * Math.random()) * 10) / 10 + last.low;
+            // ================================================
+            // // Simulate intra day updates when no feed is left
+            // var last = data[data.length - 1];
+            // // Last must be between high and low
+            // last.close = Math.round(((last.high - last.low) * Math.random()) * 10) / 10 + last.low;
+            // 
+            // // console.log('Simulating intra day updates when no feed is left')
+            // // console.log(data)
+            // newData = data;
 
-            // console.log('Simulating intra day updates when no feed is left')
-            // console.log(data)
-            newData = data;
+
+            // update data using api
+            // =====================
+            console.log('else, make await call to api')
+            data.push({
+                date: parseDate("12-Jun-13"),
+                open: +"62.40",
+                high: +"63.37",
+                low: +"63.30",
+                close: +"63.35",
+                volume: +String((Math.random() * 1000000000) + 400)//+"37617413"
+            })
+            newData = data
         }
-
+    
         redraw(newData);
     }, 1000); // update every second
     //}, (Math.random() * 1000) + 400); // Randomly pick an interval to update the chart
@@ -284,3 +300,5 @@ function move(coords) {
         timeAnnotation.format()(coords.x) + ", " + ohlcAnnotation.format()(coords.y)
     );
 }
+
+
