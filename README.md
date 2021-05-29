@@ -13,7 +13,7 @@ More information will be updated soon.
 - Pythion3.8
 - pipenv (install using `python3.8 -m pip install pipenv`)
 
-### Stetup Project
+### Setup Project
 
 ```shell
 $ git clone https://github.com/government-ai/flowt
@@ -41,6 +41,12 @@ $ git commit -m'comments about changes made'
 $ git push origin feature/feature-1
 ```
 
+
+### Start API
+
+```python
+python -m uvicorn flowt.api.main:app --host 0.0.0.0 --port 8088 --reload
+```
 
 ### Roadmap
 
