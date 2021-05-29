@@ -64,3 +64,10 @@ In sequential order
 - [ ] model optimisation
 - [ ] scraper optimisation
 - [ ] ...
+
+
+### Create Training Data From Scraped Data
+
+```shell
+$ python3.7 scripts/clean_data.py data/sample_data data/sample_data_cleaned
+```
