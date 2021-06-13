@@ -1,0 +1,432 @@
+{
+    "eur_usd": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/eur-usd-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    },
+    "gbp_usd": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/gbp-usd-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    },
+    "usd_jpy": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-jpy-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    },
+    "aud_usd": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/aud-usd-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    },
+    "eur_gbp": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/eur-gbp-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    },
+    "usd_cad": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-cad-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    },
+    "usd_chf": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-chf-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    },
+    "nzd_chf": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/nzd-chf-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    },
+    "usd_cny": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-cny-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    },
+    "usd_hkd": {
+        "idc": {
+            "url": "https://www.investing.com/currencies/usd-hkd-technical",
+            "html_loc": {
+                "current_values": [
+                    "#quotes_summary_current_data",
+                    ".inlineblock",
+                    ".top"
+                ],
+                "time": [
+                    "#quotes_summary_current_data",
+                    ".lighterGrayFont",
+                    ".bold"
+                ],
+                "secondary_data": [
+                    "#quotes_summary_secondary_data",
+                    ".bottomText"
+                ],
+                "hr1_main_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap",
+                    ".summary",
+                    "span"
+                ],
+                "hr1_full_tech_summary": [
+                    "#techinalContent",
+                    "#techStudiesInnerWrap"
+                ],
+                "hr1_pivot_points": [
+                    "#techinalContent",
+                    "table"
+                ],
+                "hr1_tech_indicators": [
+                    "#techinalContent",
+                    ".float_lang_base_1"
+                ],
+                "hr1_moving_averages": [
+                    "#techinalContent",
+                    ".float_lang_base_2"
+                ]
+            }
+        }
+    }
+}

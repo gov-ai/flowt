@@ -9,6 +9,9 @@ omegaconf = "*"
 requests-html = "*"
 pandas = "*"
 tqdm = "*"
+fastapi = "*"
+uvicorn = "*"
+mangum = "*"
 
 [dev-packages]
 
