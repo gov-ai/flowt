@@ -28,7 +28,7 @@ jobs:
             scraping started !!
       - name: Create csv file
         run: |
-          python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 200 --save-path data/2021-06-14-0130-interval60-limit200.csv
+          python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 200 --save-path data/scraped-data.csv
       # - name: Update release body and upload files
       #   uses: meeDamian/github-release@2.0
       #   with:
@@ -36,7 +36,7 @@ jobs:
       #     allow_override: true
       #     body: here goes the data
       #     files: >
-      #       data/2021-06-14-0130-interval60-limit200.csv
+      #       data/scraped-data.csv
       #     gzip: true
       - name: send scraped csv over telegram
         uses: appleboy/telegram-action@master
@@ -44,5 +44,5 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: test-scraped-data
-          document: data/2021-06-14-0130-interval60-limit200.csv
+          document: data/*.csv
           # photo: tests/github.png
