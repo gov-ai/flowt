@@ -1,6 +1,11 @@
 import os
 from .base_scraper import BaseScraper
 
+try:
+    TERMINAL_WIDTH = int(os.popen('stty size', 'r').read().split()[1])
+except:
+    TERMINAL_WIDTH = 200
+
 class StaticPageScraper(BaseScraper):
     def __init__(self) -> None:
         super().__init__()
@@ -35,7 +40,7 @@ class StaticPageScraper(BaseScraper):
         # return last unique html identifier's text content
         ret = response.html.find(unique_html_path[0], first=True)
         
-        print("="*int(os.popen('stty size', 'r').read().split()[1]))
+        print("="*TERMINAL_WIDTH)
         print(response, "::", response.url, "::", "✅", unique_html_path[0], end=" ---> ")
         
         for src in unique_html_path[1:]:
@@ -47,7 +52,7 @@ class StaticPageScraper(BaseScraper):
             print("✅", src, end=" ---> ")            
         
         print()
-        print("="*int(os.popen('stty size', 'r').read().split()[1]))
+        print("="*TERMINAL_WIDTH)
         
         print(ret.text if (text and ret is not None) else ret)
         return ret.text if (text and ret is not None) else ret
