@@ -1,10 +1,12 @@
 # make sure interval is large enough for the process otherwise, it will continue to run even if sc job is cancelled
-# usage:  python -m scripts.collect_data_technical_indicator_interval --interval 30 --limit 300 --save-path data/temp.csv
-# usage-ga: python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 1080000 --save-path data/temp.csv
+# usage:  python -m scripts.collect_data_technical_indicator_interval --interval 30 --limit 300 --save-dir scraped-data
+# usage-ga: python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 1080000 --save-dir scraped-data
 
-from tqdm import tqdm
 import argparse
 from datetime import datetime, timedelta
+from pathlib import Path
+from tqdm import tqdm
+
 import pandas as pd
 
 from flowt.scraper import StaticPageScraper
@@ -68,7 +70,7 @@ def append_to_df(df, data):
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Process command line arguments.')
-    parser.add_argument('--save-path', type=str, required=True)
+    parser.add_argument('--save-dir', type=str, default="scraped-data")
     parser.add_argument('--interval', type=int, default=60*5)
     parser.add_argument('--limit', type=int, default=60*5*2)
     return parser.parse_args()
@@ -77,11 +79,13 @@ def parse_arguments():
 if __name__ == '__main__':
 
     args = parse_arguments()
-    csv_save_path = args.save_path
+    csv_save_dir = Path(args.save_dir)
+    Path.mkdir(str(csv_save_dir), exist_ok=True)
     
     time_interval = args.interval
+    start_time = datetime.now()
     time_limit = args.limit
-    time_to_stop = datetime.now() + timedelta(seconds=time_limit)
+    time_to_stop = start_time + timedelta(seconds=time_limit)
 
     print("###########################################################################################")
     print('Process will stop @', time_to_stop)
@@ -104,8 +108,10 @@ if __name__ == '__main__':
     s.enter(time_interval, priority, collect_data, (s, time_to_stop, df))
     s.run()
     
+    end_time = datetime.now()
+    
     print("###########################################################################################")
-    print('Process stopped @', datetime.now())
+    print('Process stopped @', end_time)
     print('Process supposed to stop @', time_to_stop)
     print('Number of iterations:', len(df) / len(ORDERED_CURPAIR_NAMES))
     print("###########################################################################################")
@@ -118,4 +124,8 @@ if __name__ == '__main__':
     if len(null_columns) > 0:
         print(df[null_columns].isnull().sum())
 
-    df.to_csv(f'{csv_save_path}', index=False)
+
+    start_time = str(start_time).replace(' ', '-')
+    end_time = str(end_time).replace(' ', '-')
+    csv_save_name = f'start@{start_time}-end@{end_time}-interval{time_interval}-limit{time_limit}.csv'
+    df.to_csv(str(csv_save_dir / csv_save_name), index=False)

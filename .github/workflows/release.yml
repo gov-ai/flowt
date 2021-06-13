@@ -25,7 +25,7 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
-            scraping started !!
+            Scraping started for $(date). The process may end with success / failure. 
       - name: Create csv file
         run: |
           python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 200 --save-path data/scraped-data.csv
@@ -43,6 +43,6 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: test-scraped-data
+          message: successfully scraped data $(date)
           document: data/*.csv
           # photo: tests/github.png
