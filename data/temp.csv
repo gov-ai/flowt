@@ -1,11 +1,15521 @@
-pairName,currentValues,currentTime,localTime
-eur_usd,1.2100 +0.0085    +0.71%,23/04,2021-04-25 19:59:34.200503
-gbp_usd,1.3883 +0.0046    +0.34%,23/04,2021-04-25 19:59:34.204973
-usd_jpy,107.88 -0.09    -0.08%,23/04,2021-04-25 19:59:34.208157
-aud_usd,0.7747 +0.0040    +0.51%,23/04,2021-04-25 19:59:34.211141
-eur_gbp,0.8718 +0.0037    +0.42%,16:59:57,2021-04-25 19:59:34.214136
-usd_cad,1.2476 -0.0028    -0.22%,23/04,2021-04-25 19:59:34.217148
-usd_chf,0.9137 -0.0029    -0.32%,23/04,2021-04-25 19:59:34.223273
-nzd_chf,0.6578 +0.0001    +0.02%,16:59:52,2021-04-25 19:59:34.226840
-usd_cny,6.4954 +0.0044    +0.07%,11:30:27,2021-04-25 19:59:34.229956
-usd_hkd,7.7595 -0.0003    -0.00%,16:59:33,2021-04-25 19:59:34.232972
+pairName,currentValues,currentTime,localTime,secondaryData,hr1MainSumm,hr1FullSumm,hr1PivotPoints,hr1TechIndicators
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:12:41.425939,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:12:41.444898,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:12:41.454694,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:12:41.465012,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:12:41.473417,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:12:41.481833,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:12:41.489714,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:12:41.497460,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:12:41.505207,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,,2021-06-13 19:12:41.512948,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:13:45.727857,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:13:45.744594,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:13:45.752538,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:13:45.760988,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:13:45.768853,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:13:45.776590,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:13:45.784354,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:13:45.792066,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:13:45.799759,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:13:45.807865,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:14:50.185863,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:14:50.202339,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:14:50.210271,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:14:50.218702,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:14:50.226620,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:14:50.234488,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:14:50.242240,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:14:50.250032,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:14:50.257765,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:14:50.265469,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:15:52.847008,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:15:52.861642,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:15:52.870039,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:15:52.879365,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:15:52.887836,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:15:52.895732,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:15:52.903525,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:15:52.911261,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:15:52.918935,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:15:52.926612,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:16:57.197859,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:16:57.215562,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:16:57.235146,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:16:57.248575,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:16:57.262736,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:16:57.276746,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:16:57.285971,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:16:57.294154,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:16:57.301951,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:16:57.309643,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:18:00.042583,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:18:00.057631,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:18:00.066078,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:18:00.075578,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:18:00.083914,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:18:00.091730,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:18:00.099457,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:18:00.107155,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:18:00.115409,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:18:00.123253,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:19:04.029592,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:19:04.045832,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:19:04.053956,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:19:04.063942,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:19:04.072101,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:19:04.080170,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:19:04.087933,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:19:04.095595,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:19:04.103270,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:19:04.110961,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:20:07.244255,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:20:07.262698,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:20:07.272109,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:20:07.280550,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:20:07.288725,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:20:07.296510,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:20:07.304349,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:20:07.312153,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:20:07.319893,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:20:07.327601,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:21:12.573067,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:21:12.589897,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:21:12.597844,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:21:12.606339,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,,2021-06-13 19:21:12.614222,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:21:12.622237,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:21:12.630178,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,,2021-06-13 19:21:12.638385,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:21:12.646430,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,,2021-06-13 19:21:12.654160,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:22:15.618573,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:22:15.636489,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:22:15.646953,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:22:15.654885,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:22:15.663338,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:22:15.671121,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:22:15.679396,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:22:15.687561,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:22:15.695625,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,,2021-06-13 19:22:15.703387,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:23:19.367590,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,,2021-06-13 19:23:19.385495,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:23:19.393507,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:23:19.401810,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:23:19.409626,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:23:19.417416,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:23:19.425164,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:23:19.432920,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:23:19.440683,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:23:19.448431,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:24:22.714007,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:24:22.731972,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:24:22.742241,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:24:22.750493,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:24:22.759227,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:24:22.767059,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:24:22.774846,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:24:22.782568,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:24:22.790634,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:24:22.798353,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:25:25.434148,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:25:25.451060,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:25:25.459246,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:25:25.468987,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:25:25.477149,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:25:25.485246,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:25:25.493034,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:25:25.500760,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:25:25.508492,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:25:25.516469,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:26:30.446750,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:26:30.465048,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:26:30.474809,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:26:30.483107,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:26:30.491128,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:26:30.498952,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:26:30.506903,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:26:30.514702,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:26:30.522465,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:26:30.530179,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:27:34.153028,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:27:34.172725,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:27:34.181996,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:27:34.191502,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,11/06,2021-06-13 19:27:34.199381,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:27:34.207316,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:27:34.215137,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,11/06,2021-06-13 19:27:34.222917,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:27:34.231028,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,11/06,2021-06-13 19:27:34.238902,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+eur_usd,1.2109 -0.0060    -0.49%,11/06,2021-06-13 19:28:39.687743,"Prev. Close: 1.2169
+Bid/Ask: 1.2107 / 1.2111
+Day's Range: 1.2093 - 1.2196",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (0)Sell (9)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+Fibonacci
+1.2099
+1.2102
+1.2104
+1.2107
+1.2110
+1.2112
+1.2115
+Camarilla
+1.2107
+1.2107
+1.2108
+1.2107
+1.2110
+1.2111
+1.2111
+Woodie's
+1.2096
+1.2099
+1.2104
+1.2107
+1.2112
+1.2115
+1.2121
+DeMark's
+-
+-
+1.2105
+1.2107
+1.2113
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+27.405
+Sell
+STOCH(9,6)
+15.729
+Oversold
+STOCHRSI(14)
+31.795
+Sell
+MACD(12,26)
+-0.002
+Sell
+ADX(14)
+43.423
+Sell
+Williams %R
+-84.924
+Oversold
+CCI(14)
+-65.1938
+Sell
+ATR(14)
+0.0015
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+45.090
+Sell
+ROC
+-0.620
+Sell
+Bull/Bear Power(13)
+-0.0024
+Sell
+Buy: 0
+Sell: 9
+Neutral: 0
+
+
+Summary:Strong Sell"
+gbp_usd,1.4106 -0.0067    -0.47%,11/06,2021-06-13 19:28:39.701810,"Prev. Close: 1.4173
+Bid/Ask: 1.4104 / 1.4108
+Day's Range: 1.4096 - 1.4186",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (1)Sell (11)
+Technical Indicators:Strong SellBuy (0)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+Fibonacci
+1.4103
+1.4107
+1.4110
+1.4114
+1.4118
+1.4121
+1.4125
+Camarilla
+1.4112
+1.4113
+1.4114
+1.4114
+1.4117
+1.4118
+1.4119
+Woodie's
+1.4099
+1.4103
+1.4110
+1.4114
+1.4121
+1.4125
+1.4132
+DeMark's
+-
+-
+1.4111
+1.4115
+1.4123
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.951
+Sell
+STOCH(9,6)
+19.236
+Oversold
+STOCHRSI(14)
+24.686
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+48.201
+Sell
+Williams %R
+-80.502
+Oversold
+CCI(14)
+-72.9859
+Sell
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+-0.0013
+Sell
+Ultimate Oscillator
+49.312
+Neutral
+ROC
+-0.430
+Sell
+Bull/Bear Power(13)
+-0.0035
+Sell
+Buy: 0
+Sell: 7
+Neutral: 1
+
+
+Summary:Strong Sell"
+usd_jpy,109.68 +0.37    +0.34%,11/06,2021-06-13 19:28:39.711180,"Prev. Close: 109.31
+Bid/Ask: 109.66 / 109.70
+Day's Range: 109.32 - 109.85",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (9)Sell (3)
+Technical Indicators:Strong BuyBuy (7)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+109.59
+109.62
+109.65
+109.68
+109.71
+109.74
+109.76
+Fibonacci
+109.62
+109.64
+109.66
+109.68
+109.70
+109.72
+109.74
+Camarilla
+109.65
+109.65
+109.66
+109.68
+109.67
+109.68
+109.68
+Woodie's
+109.57
+109.61
+109.63
+109.67
+109.69
+109.73
+109.74
+DeMark's
+-
+-
+109.63
+109.67
+109.69
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+59.994
+Buy
+STOCH(9,6)
+61.844
+Buy
+STOCHRSI(14)
+51.313
+Neutral
+MACD(12,26)
+0.050
+Buy
+ADX(14)
+33.628
+Sell
+Williams %R
+-31.776
+Buy
+CCI(14)
+45.1260
+Neutral
+ATR(14)
+0.1086
+High Volatility
+Highs/Lows(14)
+0.0011
+Buy
+Ultimate Oscillator
+45.194
+Sell
+ROC
+0.242
+Buy
+Bull/Bear Power(13)
+0.0780
+Buy
+Buy: 7
+Sell: 2
+Neutral: 2
+
+
+Summary:Strong Buy"
+aud_usd,0.7707 -0.0046    -0.59%,11/06,2021-06-13 19:28:39.720765,"Prev. Close: 0.7752
+Bid/Ask: 0.7705 / 0.7708
+Day's Range: 0.7689 - 0.7776",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (2)Sell (10)
+Technical Indicators:Strong SellBuy (1)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+Fibonacci
+0.7699
+0.7702
+0.7703
+0.7705
+0.7707
+0.7708
+0.7711
+Camarilla
+0.7704
+0.7705
+0.7705
+0.7705
+0.7707
+0.7707
+0.7708
+Woodie's
+0.7698
+0.7699
+0.7703
+0.7705
+0.7709
+0.7711
+0.7715
+DeMark's
+-
+-
+0.7703
+0.7705
+0.7709
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+34.489
+Sell
+STOCH(9,6)
+19.908
+Oversold
+STOCHRSI(14)
+26.499
+Sell
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+34.284
+Buy
+Williams %R
+-79.310
+Sell
+CCI(14)
+-62.2003
+Sell
+ATR(14)
+0.0013
+High Volatility
+Highs/Lows(14)
+-0.0012
+Sell
+Ultimate Oscillator
+49.019
+Neutral
+ROC
+-0.702
+Sell
+Bull/Bear Power(13)
+-0.0031
+Sell
+Buy: 1
+Sell: 8
+Neutral: 1
+
+
+Summary:Strong Sell"
+eur_gbp,0.8585 +0.0003    +0.04%,,2021-06-13 19:28:39.729479,"Prev. Close: 0.8582
+Bid/Ask: 0.8582 / 0.8588
+Day's Range: 0.8568 - 0.8607",Strong Sell,"Summary:Strong Sell
+Moving Averages:SellBuy (3)Sell (9)
+Technical Indicators:Strong SellBuy (1)Sell (7)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+Fibonacci
+0.8573
+0.8576
+0.8577
+0.8579
+0.8581
+0.8582
+0.8585
+Camarilla
+0.8576
+0.8577
+0.8577
+0.8579
+0.8579
+0.8579
+0.8580
+Woodie's
+0.8570
+0.8573
+0.8575
+0.8579
+0.8581
+0.8585
+0.8587
+DeMark's
+-
+-
+0.8575
+0.8579
+0.8581
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+41.946
+Sell
+STOCH(9,6)
+44.416
+Sell
+STOCHRSI(14)
+72.757
+Buy
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+21.224
+Neutral
+Williams %R
+-66.667
+Sell
+CCI(14)
+-31.5367
+Neutral
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+43.940
+Sell
+ROC
+-0.192
+Sell
+Bull/Bear Power(13)
+-0.0001
+Sell
+Buy: 1
+Sell: 7
+Neutral: 3
+
+
+Summary:Strong Sell"
+usd_cad,1.2155 +0.0061    +0.50%,11/06,2021-06-13 19:28:39.737500,"Prev. Close: 1.2094
+Bid/Ask: 1.2153 / 1.2157
+Day's Range: 1.2078 - 1.2177",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (10)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+Fibonacci
+1.2152
+1.2156
+1.2158
+1.2162
+1.2166
+1.2168
+1.2172
+Camarilla
+1.2157
+1.2158
+1.2159
+1.2162
+1.2161
+1.2162
+1.2163
+Woodie's
+1.2145
+1.2152
+1.2155
+1.2162
+1.2166
+1.2172
+1.2176
+DeMark's
+-
+-
+1.2154
+1.2161
+1.2164
+-
+-","Technical IndicatorsJun 11, 2021 09:00PM GMT
+Name
+Value
+Action
+RSI(14)
+68.576
+Buy
+STOCH(9,6)
+83.082
+Overbought
+STOCHRSI(14)
+65.406
+Buy
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+49.303
+Buy
+Williams %R
+-22.222
+Buy
+CCI(14)
+79.2741
+Buy
+ATR(14)
+0.0017
+High Volatility
+Highs/Lows(14)
+0.0018
+Buy
+Ultimate Oscillator
+59.168
+Buy
+ROC
+0.563
+Buy
+Bull/Bear Power(13)
+0.0042
+Buy
+Buy: 10
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_chf,0.8981 +0.0038    +0.42%,11/06,2021-06-13 19:28:39.745305,"Prev. Close: 0.8943
+Bid/Ask: 0.8979 / 0.8983
+Day's Range: 0.8933 - 0.9001",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (7)Sell (5)
+Technical Indicators:Strong BuyBuy (6)Sell (2)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.8977
+0.8981
+0.8983
+0.8987
+0.8989
+0.8993
+0.8996
+Fibonacci
+0.8981
+0.8983
+0.8985
+0.8987
+0.8989
+0.8991
+0.8993
+Camarilla
+0.8983
+0.8984
+0.8984
+0.8987
+0.8986
+0.8986
+0.8987
+Woodie's
+0.8975
+0.8980
+0.8981
+0.8986
+0.8987
+0.8992
+0.8994
+DeMark's
+-
+-
+0.8981
+0.8986
+0.8988
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+58.697
+Buy
+STOCH(9,6)
+71.095
+Buy
+STOCHRSI(14)
+48.664
+Neutral
+MACD(12,26)
+0.001
+Buy
+ADX(14)
+39.222
+Sell
+Williams %R
+-33.334
+Buy
+CCI(14)
+35.8881
+Neutral
+ATR(14)
+0.0012
+High Volatility
+Highs/Lows(14)
+0.0000
+Neutral
+Ultimate Oscillator
+48.954
+Sell
+ROC
+0.403
+Buy
+Bull/Bear Power(13)
+0.0002
+Buy
+Buy: 6
+Sell: 2
+Neutral: 3
+
+
+Summary:Strong Buy"
+nzd_chf,0.6398 -0.0037    -0.57%,,2021-06-13 19:28:39.753255,"Prev. Close: 0.6435
+Bid/Ask: 0.6394 / 0.6402
+Day's Range: 0.6398 - 0.6450",Strong Sell,"Summary:Strong Sell
+Moving Averages:Strong SellBuy (0)Sell (12)
+Technical Indicators:Strong SellBuy (0)Sell (8)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+Fibonacci
+0.6403
+0.6405
+0.6406
+0.6408
+0.6410
+0.6411
+0.6413
+Camarilla
+0.6406
+0.6406
+0.6407
+0.6408
+0.6407
+0.6408
+0.6408
+Woodie's
+0.6400
+0.6403
+0.6405
+0.6408
+0.6409
+0.6413
+0.6414
+DeMark's
+-
+-
+0.6405
+0.6408
+0.6409
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+30.358
+Sell
+STOCH(9,6)
+15.596
+Oversold
+STOCHRSI(14)
+11.882
+Oversold
+MACD(12,26)
+-0.001
+Sell
+ADX(14)
+35.833
+Sell
+Williams %R
+-95.193
+Oversold
+CCI(14)
+-87.1827
+Sell
+ATR(14)
+0.0010
+High Volatility
+Highs/Lows(14)
+-0.0015
+Sell
+Ultimate Oscillator
+41.545
+Sell
+ROC
+-0.575
+Sell
+Bull/Bear Power(13)
+-0.0012
+Sell
+Buy: 0
+Sell: 8
+Neutral: 0
+
+
+Summary:Strong Sell"
+usd_cny,6.3988 +0.0059    +0.09%,11/06,2021-06-13 19:28:39.761014,"Prev. Close: 6.3929
+Bid/Ask: 6.3980 / 6.3995
+Day's Range: 6.3854 - 6.3990",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (12)Sell (0)
+Technical Indicators:Strong BuyBuy (8)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+6.3949
+6.3956
+6.3968
+6.3975
+6.3987
+6.3994
+6.4005
+Fibonacci
+6.3956
+6.3964
+6.3968
+6.3975
+6.3982
+6.3986
+6.3994
+Camarilla
+6.3975
+6.3977
+6.3979
+6.3975
+6.3982
+6.3984
+6.3986
+Woodie's
+6.3953
+6.3958
+6.3972
+6.3977
+6.3991
+6.3996
+6.4009
+DeMark's
+-
+-
+6.3972
+6.3977
+6.3991
+-
+-","Technical IndicatorsJun 11, 2021 03:33PM GMT
+Name
+Value
+Action
+RSI(14)
+68.087
+Buy
+STOCH(9,6)
+72.667
+Buy
+STOCHRSI(14)
+100.000
+Overbought
+MACD(12,26)
+0.002
+Buy
+ADX(14)
+42.112
+Buy
+Williams %R
+-2.205
+Overbought
+CCI(14)
+174.8777
+Buy
+ATR(14)
+0.0021
+Less Volatility
+Highs/Lows(14)
+0.0067
+Buy
+Ultimate Oscillator
+78.459
+Overbought
+ROC
+0.189
+Buy
+Bull/Bear Power(13)
+0.0110
+Buy
+Buy: 8
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"
+usd_hkd,7.7610 +0.0007    +0.01%,,2021-06-13 19:28:39.768775,"Prev. Close: 7.7603
+Bid/Ask: 7.7608 / 7.7612
+Day's Range: 7.7591 - 7.7619",Strong Buy,"Summary:Strong Buy
+Moving Averages:BuyBuy (10)Sell (2)
+Technical Indicators:Strong BuyBuy (11)Sell (0)","Name
+S3
+S2
+S1
+Pivot Points
+R1
+R2
+R3
+Classic
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+Fibonacci
+7.7610
+7.7612
+7.7612
+7.7614
+7.7616
+7.7616
+7.7618
+Camarilla
+7.7613
+7.7614
+7.7614
+7.7614
+7.7615
+7.7615
+7.7616
+Woodie's
+7.7608
+7.7610
+7.7613
+7.7614
+7.7617
+7.7618
+7.7621
+DeMark's
+-
+-
+7.7613
+7.7614
+7.7617
+-
+-","Technical IndicatorsJun 11, 2021 08:59PM GMT
+Name
+Value
+Action
+RSI(14)
+62.335
+Buy
+STOCH(9,6)
+65.183
+Buy
+STOCHRSI(14)
+72.015
+Buy
+MACD(12,26)
+0.000
+Buy
+ADX(14)
+55.988
+Buy
+Williams %R
+-27.782
+Buy
+CCI(14)
+128.1506
+Buy
+ATR(14)
+0.0004
+Less Volatility
+Highs/Lows(14)
+0.0005
+Buy
+Ultimate Oscillator
+67.403
+Buy
+ROC
+0.022
+Buy
+Bull/Bear Power(13)
+0.0007
+Buy
+Buy: 11
+Sell: 0
+Neutral: 0
+
+
+Summary:Strong Buy"

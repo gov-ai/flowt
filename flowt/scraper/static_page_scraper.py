@@ -1,3 +1,4 @@
+import os
 from .base_scraper import BaseScraper
 
 class StaticPageScraper(BaseScraper):
@@ -33,9 +34,23 @@ class StaticPageScraper(BaseScraper):
 
         # return last unique html identifier's text content
         ret = response.html.find(unique_html_path[0], first=True)
+        
+        print("="*int(os.popen('stty size', 'r').read().split()[1]))
+        print(response, "::", response.url, "::", "✅", unique_html_path[0], end=" ---> ")
+        
         for src in unique_html_path[1:]:
+            if ret is None: 
+                print("❌", src, end="")            
+                break
+            
             ret = ret.find(src, first=True)
-        return ret.text if text else ret
+            print("✅", src, end=" ---> ")            
+        
+        print()
+        print("="*int(os.popen('stty size', 'r').read().split()[1]))
+        
+        print(ret.text if (text and ret is not None) else ret)
+        return ret.text if (text and ret is not None) else ret
 
 
 if __name__ == '__main__':
