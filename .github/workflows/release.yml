@@ -2,9 +2,9 @@ name: release
 
 # https://help.github.com/en/articles/workflow-syntax-for-github-actions#on
 on:
-  release:
-    types:
-      - created
+  push:
+    branches:
+      - workflow/release-scraped-data
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
           pip install -r requirements.txt
       - name: Create csv file
         run: |
-          python -m scripts.collect_data --save-path data/2021-04-28-0400-i2300.csv --iters 2300
+          python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 1080000 --save-path data/2021-06-14-0100-interval60-limit1080000.csv
       - name: Update release body and upload files
         uses: meeDamian/github-release@2.0
         with:
