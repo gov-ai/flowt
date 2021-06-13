@@ -1,1 +1,1 @@
-init scraping $(date)
+init scraping 2021-06-14 02:47:23
