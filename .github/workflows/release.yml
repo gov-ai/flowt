@@ -19,15 +19,30 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+      - name: send telegram message
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            scraping started !!
       - name: Create csv file
         run: |
-          python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 1080000 --save-path data/2021-06-14-0100-interval60-limit1080000.csv
-      - name: Update release body and upload files
-        uses: meeDamian/github-release@2.0
+          python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 200 --save-path data/2021-06-14-0130-interval60-limit200.csv
+      # - name: Update release body and upload files
+      #   uses: meeDamian/github-release@2.0
+      #   with:
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     allow_override: true
+      #     body: here goes the data
+      #     files: >
+      #       data/2021-06-14-0130-interval60-limit200.csv
+      #     gzip: true
+      - name: send scraped csv over telegram
+        uses: appleboy/telegram-action@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          allow_override: true
-          body: here goes the data
-          files: >
-            data/2021-04-28-0400-i2300.csv
-          gzip: true
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: test-scraped-data
+          document: data/2021-06-14-0130-interval60-limit200.csv
+          # photo: tests/github.png
