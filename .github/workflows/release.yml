@@ -10,6 +10,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date)"
+      - name: Test get current date
+        run: |
+          echo cur-date-${{ steps.date.outputs.date }}
       - uses: actions/checkout@v2
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -25,7 +31,7 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
-            Scraping started for $(date). The process may end with success / failure. 
+            Scraping started for ${{ steps.date.outputs.date }}. The process may end with success / failure. 
       - name: Create csv file
         run: |
           python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 200
@@ -43,6 +49,6 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: successfully scraped data $(date)
+          message: successfully scraped data for ${{ steps.date.outputs.date }}
           document: scraped-data/*.csv
           # photo: tests/github.png

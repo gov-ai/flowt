@@ -88,7 +88,8 @@ if __name__ == '__main__':
     time_to_stop = start_time + timedelta(seconds=time_limit)
 
     print("###########################################################################################")
-    print('Process will stop @', time_to_stop)
+    print('Process start @', start_time)
+    print('Process stop @', time_to_stop)
     print("###########################################################################################")
 
     df = pd.DataFrame(dict(pairName=[], currentValues=[], currentTime=[], localTime=[], secondaryData=[],
