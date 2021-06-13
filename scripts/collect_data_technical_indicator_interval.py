@@ -80,7 +80,7 @@ if __name__ == '__main__':
 
     args = parse_arguments()
     csv_save_dir = Path(args.save_dir)
-    Path.mkdir(str(csv_save_dir), exist_ok=True)
+    Path.mkdir(csv_save_dir, exist_ok=True)
     
     time_interval = args.interval
     start_time = datetime.now()
