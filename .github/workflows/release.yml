@@ -32,9 +32,9 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
             Scraping started for ${{ steps.date.outputs.date }}. The process may end with success / failure. 
-      - name: Create csv file
+      - name: Create csv file (scraping for 5 hrs)
         run: |
-          python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 200
+          python -m scripts.collect_data_technical_indicator_interval --interval 60 --limit 1080000
       # - name: Update release body and upload files
       #   uses: meeDamian/github-release@2.0
       #   with:
