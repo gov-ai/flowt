@@ -59,6 +59,7 @@ In sequential order
 - [x] build multihead transformer model in tensorflow
 - [x] implement scraper for investing.com
 - [x] scrape data using github actions
+- [x] send scraped data to telegram channel using cron
 - [ ] implement data cleaner
 - [ ] implement prediction - online predictior, offline predictor
 - [ ] connect to fastapi
