@@ -20,7 +20,7 @@ class BaseScraper:
             self.scraped_data = self.get(url)
             return self
         except requests.exceptions.RequestException as e:
-            logger.exception(f"Could not fetch {url}. Error: {e}")
+            logger.exception(f"Could not fetch {url} Error: {e}")
         except Exception as e:
             logger.exception(f"Runtime error: {e}")
 

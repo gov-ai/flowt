@@ -5,7 +5,6 @@
 import argparse
 from datetime import datetime, timedelta
 from pathlib import Path
-from tqdm import tqdm
 
 import pandas as pd
 

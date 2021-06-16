@@ -17,7 +17,11 @@ class StaticPageScraper(BaseScraper):
     def scrape_all(self, urls: list):
         scraped_data_acc = []
         for url in urls:
-            scraped_data_acc.append(self.scrape(url).scraped_data)
+            try:
+                scraped_data_acc.append(self.scrape(url).scraped_data)
+            except:
+                print('Could not scrape {url}')
+                
         self.scraped_data = scraped_data_acc
         return self
 
