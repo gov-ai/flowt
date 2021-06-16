@@ -1,14 +1,27 @@
 import os
 from .base_scraper import BaseScraper
 
+try:
+    TERMINAL_WIDTH = int(os.popen('stty size', 'r').read().split()[1])
+except:
+    TERMINAL_WIDTH = 40
+
 class StaticPageScraper(BaseScraper):
-    def __init__(self) -> None:
+    def __init__(self, verbose=0) -> None:
+        """
+        :verbose: {int} 0 no logs; 1 important logs; 2 all logs;  
+        """
         super().__init__()
+        self._v = verbose
 
     def scrape_all(self, urls: list):
         scraped_data_acc = []
         for url in urls:
-            scraped_data_acc.append(self.scrape(url).scraped_data)
+            try:
+                scraped_data_acc.append(self.scrape(url).scraped_data)
+            except:
+                print('Could not scrape {url}')
+                
         self.scraped_data = scraped_data_acc
         return self
 
@@ -35,21 +48,28 @@ class StaticPageScraper(BaseScraper):
         # return last unique html identifier's text content
         ret = response.html.find(unique_html_path[0], first=True)
         
-        print("="*int(os.popen('stty size', 'r').read().split()[1]))
-        print(response, "::", response.url, "::", "✅", unique_html_path[0], end=" ---> ")
+        if self._v > 0:
+            print("="*TERMINAL_WIDTH)
+            print(response, "::", response.url, "::", "✅", unique_html_path[0], end=" ---> ")
         
         for src in unique_html_path[1:]:
             if ret is None: 
-                print("❌", src, end="")            
+                if self._v > 0: 
+                    print("❌", src, end="")            
                 break
             
             ret = ret.find(src, first=True)
-            print("✅", src, end=" ---> ")            
+            
+            if self._v > 0: 
+                print("✅", src, end=" ---> ")            
         
-        print()
-        print("="*int(os.popen('stty size', 'r').read().split()[1]))
-        
-        print(ret.text if (text and ret is not None) else ret)
+        if self._v > 0: 
+            print()
+            print("="*TERMINAL_WIDTH)
+            
+        if self._v > 1:
+            print(ret.text if (text and ret is not None) else ret)
+
         return ret.text if (text and ret is not None) else ret
 
 
