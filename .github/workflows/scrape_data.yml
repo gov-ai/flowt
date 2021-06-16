@@ -1,4 +1,4 @@
-name: release
+name: scrape_data
 
 # https://help.github.com/en/articles/workflow-syntax-for-github-actions#on
 # on:
