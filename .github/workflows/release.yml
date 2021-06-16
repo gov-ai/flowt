@@ -23,7 +23,7 @@ jobs:
           python-version: '3.x'
       - name: Trigger Scraper
         run: |
-          python -c"import subprocess; subprocess.run(["sh", "trigger-scraping.sh"]);"
+          python -c"import subprocess; subprocess.run(['sh', 'trigger-scraping.sh']);"
       # - name: Install dependencies
       #   run: |
       #     python -m pip install --upgrade pip
