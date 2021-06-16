@@ -5,9 +5,10 @@ name: release
 #   push:
 #     branches:
 #       - workflow/release-scraped-data
+
 on:
   schedule:
-    - cron:  '45 5,10,15,20 * * *'
+    - cron:  '0 0,6,12,18 * * *'
 
 jobs:
   build:
@@ -38,7 +39,7 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
             Scraping started for ${{ steps.date.outputs.date }}. The process may end with success / failure. 
-      - name: Create csv file (scraping for 5 hrs)
+      - name: Create csv file (scraping for 5.5 hrs)
         run: |
           python -m scripts.collect_data_fx --interval minute --limit 350 --save-dir scraped-data
       # - name: Update release body and upload files
