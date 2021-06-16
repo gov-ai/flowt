@@ -6,7 +6,7 @@ echo "init scraping `date +'%Y-%m-%d %H:%M:%S'`" > log.txt
 git checkout workflow/release-scraped-data
 git branch -a
 git add log.txt
-git commit -m"trigger scraper `date +'%Y-%m-%d %H:%M:%S'`"
+git commit -m"Committing from GA"
 echo "================================================================"
 echo "Pushing (this should trigger workflow)"
 echo "================================================================"
