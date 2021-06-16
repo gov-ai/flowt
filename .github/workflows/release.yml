@@ -8,7 +8,7 @@ name: release
 
 on:
   schedule:
-    - cron:  '28 11,0,6,12,18 * * *'
+    - cron:  '29 11 * * *'
 
 jobs:
   build:
