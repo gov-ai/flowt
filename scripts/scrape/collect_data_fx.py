@@ -95,7 +95,7 @@ if __name__ == '__main__':
 
     df = pd.DataFrame(dict(pairName=[], currentValues=[], currentTime=[], localTime=[], secondaryData=[],
                            hr1MainSumm=[], hr1FullSumm=[], hr1PivotPoints=[], hr1TechIndicators=[],))
-    cur_pairs_info = load_config_file("scripts/cur_pair_info_technical_indicator.json")
+    cur_pairs_info = load_config_file("scripts/scrape/cur_pair_info_technical_indicator.json")
 
 
     def collect_data(df):
