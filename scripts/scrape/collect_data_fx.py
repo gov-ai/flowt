@@ -62,10 +62,10 @@ def get_data(pairs_info):
 
 
 def append_to_df(df, data):
-    for idx, (current_values, time, secondary_data, hr1_main_summ, hr1_full_summ, hr1_pivot_points, hr1_tech_indicators) in enumerate(data):
+    for idx, (current_values, time, secondary_data, hr1_main_summ, hr1_full_summ, hr1_pivot_points, hr1_tech_indicators, hr1_ma_indicators) in enumerate(data):
         pair_name = ORDERED_CURPAIR_NAMES[idx]
         df.loc[len(df.index)] = [
-            pair_name, current_values, time, str(datetime.now()), secondary_data, hr1_main_summ, hr1_full_summ, hr1_pivot_points, hr1_tech_indicators]
+            pair_name, current_values, time, str(datetime.now()), secondary_data, hr1_main_summ, hr1_full_summ, hr1_pivot_points, hr1_tech_indicators, hr1_ma_indicators]
     return df
 
 
@@ -94,7 +94,7 @@ if __name__ == '__main__':
     print("###########################################################################################")
 
     df = pd.DataFrame(dict(pairName=[], currentValues=[], currentTime=[], localTime=[], secondaryData=[],
-                           hr1MainSumm=[], hr1FullSumm=[], hr1PivotPoints=[], hr1TechIndicators=[],))
+                           hr1MainSumm=[], hr1FullSumm=[], hr1PivotPoints=[], hr1TechIndicators=[], hr1MovingAverages=[]))
     cur_pairs_info = load_config_file("scripts/scrape/cur_pair_info_technical_indicator.json")
 
 
