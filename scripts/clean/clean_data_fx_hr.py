@@ -1,10 +1,15 @@
 """
 this script cleans collected csv file with hourly technical indicators (minute close price) 
-to more organized dsv with following columns for each cur pair
-    +
+to more organized dsv with technical indicator columns for each cur pair
+
+usage: 
+  python -m scripts.clean.clean_data_fx_hr <path/to/tg/csv/files> <csv/write/path>
+
+example:
+  python -m scripts.clean.clean_data_fx_hr data/files data/clean/poc_6_days_data_10_pairs.csv
 """
 
-import re, os
+import re, os, sys
 from pathlib import Path
 
 import numpy as np
@@ -108,7 +113,7 @@ def _clean_tech_summary_main(main_summary, pair_name):
   # main summary
   main_summary = main_summary.replace("Summary:", "")
   try:
-    main_summary_id = summary_text_to_id[main_summary.lower()]
+    main_summary_id = main_summary # summary_text_to_id[main_summary.lower()]
     main_summary_id_missing = 0
   except:
     print(f'[{pair_name}] Unexpected main_summary: {main_summary}! data must be corrupted or source layout might have been changed.')
@@ -137,7 +142,7 @@ def _clean_tech_summary_main(main_summary, pair_name):
 
   try:
     ma_summary_text= ''.join(splitted[2:-2])
-    ma_summary_id = summary_text_to_id[ma_summary_text.lower()]
+    ma_summary_id = ma_summary_text #summary_text_to_id[ma_summary_text.lower()]
     ma_summary_id_missing = 0
   except:
     print(f'[{pair_name}] (ma_summary_id) unexpected splitted: {splitted}')
@@ -165,8 +170,8 @@ def _clean_tech_summary_main(main_summary, pair_name):
     tech_ind_tot_buy_missing = 1
 
   try:
-    tech_ind_summary_text= ''.join(splitted[2:-2])
-    tech_ind_summary_id = summary_text_to_id[tech_ind_summary_text.lower()]
+    tech_ind_summary_text = ''.join(splitted[2:-2])
+    tech_ind_summary_id = tech_ind_summary_text #summary_text_to_id[tech_ind_summary_text.lower()]
     tech_ind_summary_id_missing = 0
   except:
     print(f'[{pair_name}] (tech_ind_summary_id) unexpected: {tech_ind_summary_text} splitted: {splitted}')
@@ -509,7 +514,11 @@ def clean_csv(fpath, num_pairs=10):
 
 
 def main():
-    TELEGRAM_FILES_DIR = Path('/Users/mac/Desktop/github/projects/prem/flowt/data/files')
+
+    TELEGRAM_FILES_DIR = sys.argv[1]
+    CSV_SAVE_PATH = sys.argv[2]
+
+    TELEGRAM_FILES_DIR = Path(TELEGRAM_FILES_DIR)
     scraped_files = sorted([f for f in TELEGRAM_FILES_DIR.iterdir() if f.is_file()])
 
     df_clean_all = []
@@ -528,42 +537,9 @@ def main():
     print(minute_data.head(10))
 
 
-    """
-    other than the numerical variable, these are categorical variables:
-    for every currency pair, 
-        - *_gmt_mo
-        - *_bull_bear_power_13_action
-        - *_main_summary_id (currently not a categorical value but will be)
-    """
-    write_file_name = "poc_6_days_data_10_pairs.csv"
-    wite_path = f"/Users/mac/Desktop/github/projects/prem/flowt/data/clean/{write_file_name}"
-    minute_data.to_csv(f'{wite_path}', index=False)
-    exit()
-
-
-    # categorical variables (only showing for specific pair)
-    print(minute_data.eur_usd_gmt_mo.value_counts())
-    print(minute_data.usd_hkd_bull_bear_power_13_action.value_counts())
-    print(minute_data.eur_usd_main_summary_id.value_counts())
-
-    # list all categorical cols
-    # -------------------------
-    # # todo: include `main_summary_id` as text
-    # categorical_cols = []
-    # substrs_cat_col = ['_gmt_mo', '_action']
-    
-    # unique_cats = set()
-    # for cname in minute_data.columns:
-    #     for substr in substrs_cat_col:
-    #         if (substr in cname) and ('_missing' not in cname):
-    #         categorical_cols.append(cname)
-    #         for uv in np.unique(minute_data[cname].values):
-    #             unique_cats.add(uv)
-
-    # print('cat cols:')
-    # print(categorical_cols)
-    # print('unique values:')
-    # print(unique_cats)
+    # other than the numerical variable, there are categorical variables
+    # for every currency pair
+    minute_data.to_csv(CSV_SAVE_PATH, index=False)
 
 
 if __name__ == '__main__':
