@@ -1,14 +1,13 @@
 name: scrape_data
 
 # https://help.github.com/en/articles/workflow-syntax-for-github-actions#on
-# on:
-#   push:
-#     branches:
-#       - workflow/release-scraped-data
-
 on:
-  schedule:
-    - cron:  '0 0,6,12,18 * * 1,2,3,4,5'
+  push:
+    branches:
+      - never_run
+# on:
+#   schedule:
+#     - cron:  '0 0,6,12,18 * * 1,2,3,4,5'
 
 jobs:
   build:
