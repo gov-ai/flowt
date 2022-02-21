@@ -2,7 +2,8 @@ name: scrape_data
 
 on:
   push:
-    - main
+    branches:
+      - main
   schedule:
     - cron:  '30 4 * * 1,2,3,4,5'
 
